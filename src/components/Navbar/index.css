@@ -1,0 +1,37 @@
+/* Write your CSS here */
+.navbar-container-dark {
+  display: flex;
+  justify-content: space-around;
+  width: 100vw;
+  background-color: #333333;
+}
+.navbar-container-light {
+  display: flex;
+  justify-content: space-around;
+  width: 100vw;
+  background-color: white;
+}
+.nav-image {
+  height: 40px;
+  width: 40px;
+}
+.unordered-list {
+  display: flex;
+}
+.link-style {
+  text-decoration: none;
+}
+.list-style-light {
+  list-style: none;
+  color: black;
+  margin-right: 20px;
+}
+.list-style-dark {
+  list-style: none;
+  color: white;
+  margin-right: 20px;
+}
+.button {
+  border: none;
+  background-color: transparent;
+}
